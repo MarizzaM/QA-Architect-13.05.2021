@@ -1,3 +1,4 @@
 a) build a web application
-b) Spring Framework предоставляет приложения на основе Java
+b) The Spring Framework for Java-based applications Java;
+   Spring Loves Kotlin and Groovy
 c) Tomcat and Jetty
