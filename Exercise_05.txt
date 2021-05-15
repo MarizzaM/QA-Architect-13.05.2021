@@ -1,0 +1,4 @@
+This class returns the instance of ModelAndView controller with the mapped name, message name and message value. 
+The message value will be displayed in the jsp page.
+
+The @Controller annotation marks this class as Controller.
