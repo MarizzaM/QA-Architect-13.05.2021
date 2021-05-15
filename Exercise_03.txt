@@ -1,0 +1,3 @@
+a) build a web application
+b) Spring Framework предоставляет приложения на основе Java
+c) Tomcat and Jetty
