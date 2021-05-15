@@ -1,0 +1,2 @@
+Web Server is a software that can process the client request and send the response back to the client. 
+Web Server runs on some physical machine and listens to client request on a specific port.
