@@ -1,0 +1,1 @@
+Postman is check requests from client to server and receive a response from the backend.
